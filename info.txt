@@ -1,1 +1,3 @@
-"Autor: Kamil Tecza" 
+"Autor: Kamil Tecza"
+Kurs: DevOps
+
