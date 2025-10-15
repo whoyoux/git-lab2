@@ -1,1 +1,2 @@
 "Autor: Kamil Tecza" 
+Kurs: Technologie DevOps
